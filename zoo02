@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>Zoo Animals</title>
+  </head>
+
+  <body>
+
+    <h2>Bears</h2>
+      <img src="https://tse2.mm.bing.net/th?id=OIP.wExDYvAx-x753240Y8JNfAHaFj&pid=Api&P=0&h=220">
+        <li>Ollie</li>
+        <li>Mona</li>
+
+    <h2>Giraffes</h2>
+     <img src="https://tse2.mm.bing.net/th?id=OIP.opaj5RyelkibfzHBW4X4oAHaIM&pid=Api&P=0&h=220">
+        <li>Frankie</li>
+        <li>Coconut</li>
+
+    <h2>Lions</h2>
+      <img src="https://tse1.mm.bing.net/th?id=OIP.1v1LyOL7jzgNndpyVfDlGAHaFj&pid=Api&P=0&h=220">
+        <li>Mella</li>
+        <li>Karl</li>
+
+    <h2>Monkeys</h2>
+      <img src="https://tse2.mm.bing.net/th?id=OIP.qPQ1lUvPh6hSBj3Vs7qetgAAAA&pid=Api&P=0&h=220">
+        <li>Cookie</li>
+        <li>Earl</li>
+        <li>Bananna Pudding</li>
+        
+    <h2>Alligators</h2>
+      <img src="https://tse3.mm.bing.net/th?id=OIP.ctGDsgz77jqK6N4y4VgmcAHaE3&pid=Api&P=0&h=220">
+  </body>
+  </html>
+		
